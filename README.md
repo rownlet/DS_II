@@ -17,8 +17,7 @@ Para ejecutar el notebook correctamente, necesitarás las siguientes herramienta
 1. Clona el repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu-repo/calidad-aire-india.git
-   cd calidad-aire-india
+   git clone https://github.com/rownlet/DS_II.git
    ```
 
 2. Crea y activa un entorno virtual (opcional pero recomendado):
